@@ -1,9 +1,6 @@
 #sparksflyupwards
-<<<<<<< HEAD
 #some other comment test
-=======
 #some comment
->>>>>>> travis-updates
 
 language: node_js
 
